@@ -42,13 +42,12 @@
   },
   "author": "Apache Software Foundation",
   "license": "Apache-2.0",
-  "engines": {
-    "cordovaDependencies": {
-      "3.0.0": {
-        "cordova": ">100"
-      }
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
     }
-  },
+  ],
   "devDependencies": {
     "jshint": "^2.6.0"
   }
