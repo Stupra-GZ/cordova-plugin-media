@@ -1,54 +1,33 @@
 {
   "name": "cordova-plugin-media-stupra",
-  "version": "1.0.0",
-  "description": "Cordova Media Plugin",
+  "version": "0.0.1",
+  "description": "cordova plugin media stupra",
   "cordova": {
     "id": "cordova-plugin-media-stupra",
     "platforms": [
       "android",
-      "amazon-fireos",
-      "ubuntu",
-      "ios",
-      "blackberry10",
-      "wp7",
-      "wp8",
-      "windows8",
-      "windows",
-      "tizen"
+      "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Stupra-GZ/cordova-plugin-media"
+    "url": "git+https://github.com/Stupra-GZ/cordova-plugin-media.git"
   },
   "keywords": [
-    "cordova",
-    "media",
     "ecosystem:cordova",
     "cordova-android",
-    "cordova-amazon-fireos",
-    "cordova-ubuntu",
-    "cordova-ios",
-    "cordova-blackberry10",
-    "cordova-wp7",
-    "cordova-wp8",
-    "cordova-windows8",
-    "cordova-windows",
-    "cordova-tizen"
+    "cordova-ios"
   ],
-  "scripts": {
-    "test": "npm run jshint",
-    "jshint": "jshint www && jshint src && jshint tests"
-  },
-  "author": "Apache Software Foundation",
-  "license": "Apache-2.0",
   "engines": [
     {
       "name": "cordova",
       "version": ">=3.0.0"
     }
   ],
-  "devDependencies": {
-    "jshint": "^2.6.0"
-  }
+  "author": "Stupra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stupra-GZ/cordova-plugin-media/issues"
+  },
+  "homepage": "https://github.com/Stupra-GZ/cordova-plugin-media#readme"
 }
