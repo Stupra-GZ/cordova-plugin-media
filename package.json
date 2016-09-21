@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Cordova Media Plugin",
   "cordova": {
-    "id": "cordova-plugin-media",
+    "id": "cordova-plugin-media-stupra",
     "platforms": [
       "android",
       "amazon-fireos",
