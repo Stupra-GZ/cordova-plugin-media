@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-media-stupra",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "cordova plugin media stupra",
   "cordova": {
     "id": "cordova-plugin-media-stupra",
