@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-media",
-  "version": "2.4.0",
+  "name": "cordova-plugin-media-stupra",
+  "version": "1.0.0",
   "description": "Cordova Media Plugin",
   "cordova": {
     "id": "cordova-plugin-media",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/apache/cordova-plugin-media"
+    "url": "https://github.com/Stupra-GZ/cordova-plugin-media"
   },
   "keywords": [
     "cordova",
